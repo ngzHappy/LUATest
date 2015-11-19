@@ -67,3 +67,5 @@ SOURCES += $$PWD/lvm.cpp
 SOURCES += $$PWD/lzio.cpp
 #SOURCES +=$$PWD/lua.cpp
 #SOURCES +=$$PWD/luac.cpp
+
+DISTFILES += $$PWD/Lua5_3Manual.html
